@@ -1,0 +1,15 @@
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\bin\Debug\net6.0\KidsFair.exe
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\bin\Debug\net6.0\KidsFair.deps.json
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\bin\Debug\net6.0\KidsFair.runtimeconfig.json
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\bin\Debug\net6.0\KidsFair.dll
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\bin\Debug\net6.0\KidsFair.pdb
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\KidsFair.csproj.AssemblyReference.cache
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\KidsFair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\KidsFair.AssemblyInfoInputs.cache
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\KidsFair.AssemblyInfo.cs
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\KidsFair.csproj.CoreCompileInputs.cache
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\KidsFair.dll
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\refint\KidsFair.dll
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\KidsFair.pdb
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\KidsFair.genruntimeconfig.cache
+D:\Malmö University\AssignmentOne\KidsFair\KidsFair\obj\Debug\net6.0\ref\KidsFair.dll
